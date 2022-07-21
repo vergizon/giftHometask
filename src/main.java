@@ -1,4 +1,4 @@
-public class gift {
+public class main {
     public static void main(String[] args) {
         int initial = 100; //начальная сумма на счете клиента
         int transfer = 1100; //сумма пополнения счета
